@@ -8,9 +8,9 @@ I want to try using Claude for my personal journaling. This is in flux, but the 
 * At the end of a session, Claude can update the HOOKS.md file for any future journaling hooks.
 
 In particular, the "process entry" routine works as:
-1) Read and fix errors, remove parts that are directed at Claude; fix flow but don't change tone.
+1) Read and fix errors, remove parts that are directed at Claude; fix flow but don't change tone. Make the entry consistent with the others in terms of title at the top and sectioning.
 2) Write down entries for concepts that I specifically request.
-3) Propose new concepts or new addtions under existing concepts that I didn't request. Don't do this in plan mode or as file change proposals - verbally propose and explicitly ask.
+3) Propose new concepts or new addtions under existing concepts that I didn't request. Don't do this in plan mode or as file change proposals - verbally propose and explicitly ask. Prioritize additions over new concepts.
 4) Write hooks.
 
 # A bit about me

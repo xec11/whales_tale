@@ -30,6 +30,18 @@ Threads to pick up in future entries.
 
 - **The surreal feeling**: Paradise while the world falls apart. Not good or bad, just weird. This sense of dislocation — being physically in one world and mentally tethered to another — seems worth sitting with. Does it come up outside of work crises?
 
+## From 2026-03-04
+
+- **The mindful habits experiment**: You landed on "notice it, don't wish it away" as a framing for managing anxiety. How does this sit alongside the meditation experiment from 3/2? Are you actually doing it — catching the tight shoulders, the scanning — or is it still mostly a concept?
+
+- **Mistakes and bad luck — learning without overlearning**: You said you want to learn from the Singapore jet loss without overlearning. What would overlearning look like concretely? And what would the right lesson be?
+
+- **"I belong in this world" as an anchor**: This came up multiple times — as the antidote to the doom loop, at the birthday dinner, in thinking about Jack Zhang. Is this a stable belief or does it only surface when you need it to fight the spiral? What would it look like to live from this anchor on an ordinary, non-crisis day?
+
+- **Jack Zhang and Alec — the peer signal**: Watching peers get displaced rattles you even when your own position is fine. Is there a way to be compassionate toward them without absorbing their situation as evidence about your own? Worth reaching out to Jack when you're back.
+
+- **The birthday dinner**: You were blue but showed up and it was okay. "Nice to hear people talk about ordinary things." What is it about ordinariness that's grounding? Is there too little of it in your day-to-day?
+
 ## From 2026-03-02
 
 - **The meditation experiment**: You landed on 30 mins/day of meditation as the most concrete step toward exploring spirituality as a new dimension. How is that going? What comes up when you sit?

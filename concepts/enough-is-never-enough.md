@@ -19,3 +19,12 @@ Named and sharpened during a firefighting week experienced from vacation. Greg o
 - The diagnosis resonated strongly. The prescription ("deliberate downshifting and recovery") felt like empty wellness-speak.
 - The honest question: when does the work ethic feel like a conscious choice vs. a compulsion? Is there still a difference?
 - If the push is reflex, then changing jobs doesn't fix it — you just bring the reflex with you. This connects to the "is the problem the job or me?" fork.
+
+## 2026-03-04
+
+**The doom loop.** A new shape for "not enough" — not about effort this time, but about safety. The Singapore jet trade lost a lot of money; the response wasn't just "I should have worked harder" but a full cascade: "this is painful → maybe I just quit → I'm unsafe → stop spending money, what are we doing, no no no."
+
+- The feeling of not-enough spills from effort into identity and financial security. When multiple bads stack up (the trade, being away from the desk, a rough week), there's no comforting narrative to grab — you were wrong *and* unlucky, the "worst quadrant."
+- The loop has a paradoxical quality: the situation is objectively better than a year ago (good year, savings, Shirley about to start earning), but the dread is *greater*, because now quitting is just plausible enough to be terrifying.
+- The self-aware version: "My brain likes to scan for worry all the time; right now there's something real; usually it goes after the impending catastrophe of choice." The scanner doesn't distinguish between real threats and ambient ones — it just runs.
+- Landing point: "I made mistakes and I was unlucky. I may as well accept both." Accepting pain without over-learning or spiraling — that's the aspiration, at least.
