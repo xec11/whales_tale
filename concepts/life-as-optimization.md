@@ -33,3 +33,11 @@ A tendency to frame life as an optimization problem — which partly explains su
 - This is a fundamentally different kind of reassurance than finding the next best move. It's not about positioning or risk-adjusting — it's about belonging.
 - "We all belong in this world" came up again at the birthday dinner. Even while blue, hearing people talk about ordinary things was grounding. The optimizer turns off; the person stays.
 - The morning entry hinted at the same shift from a different angle: "mindful habits" — noticing anxiety rather than solving it. The optimizer's instinct is to fix; the alternative is to see it and let go a little.
+
+## 2026-03-05
+
+**The optimizer's dilemma with passion.** Thinking about ikigai and the AI game surfaced a specific fear: making the game a bigger part of life — say, devoting a sabbatical to it — would pull it into the box of things expected to perform. Right now, it's enjoyed purely out of desire for doing it, not for an outcome. Optimizing it might kill what makes it a passion.
+
+- This connects to the "Adam's dad" idea from 3/2 — the post office worker who kept photography as a passion rather than a job, so he could photograph what he wanted rather than what paid.
+- The optimizer's frame creates a trap: if something brings you joy, the instinct is to scale it, invest in it, measure it. But some things only work *because* they sit outside that frame.
+- A "good kind" of sadness came up when thinking about ikigai — the "it makes sense" kind. Not the spiral's dread, but something quieter. The sadness of recognizing what you want and not knowing if you can protect it from yourself.

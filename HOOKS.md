@@ -18,6 +18,16 @@ Threads to pick up in future entries.
 
 - **The Interest Rate Volatility Metaphor**: Peter Thiel asks, what's an idea you think is true and that most people disagree with you on? I think my answer to that is "Interest Rate Volatility is really good, both literally and metaphorically". Literally -> looseness helps build businesses that are forward looking and innovative beyond the incremental; without it, it's too hard to do that. But tightness is necessary to get rid of the ones that are not ultimately able to produce consistent value, and so their death allows for productive capital reallocation. The cycle between them is much better than a fixed equilibrium. Metaphorically -> in one's life, there's need for the same things - slack to be forward-looking and rejuvenate, and do think beyond what's necessary for survival, but without tightness one remains an indefinite optimist and doesn't actually make things happen.
 
+## From 2026-03-02
+
+- **The meditation experiment**: You landed on 30 mins/day of meditation as the most concrete step toward exploring spirituality as a new dimension. How is that going? What comes up when you sit?
+
+- **Mood as a function of context**: On 3/1 you were anxious about work; by evening, relief. On 3/2 you're on vacation and feeling good, so you projected no desire for change to Clive. How much does your environment determine what you think you want? Can you trust the signal from any single day?
+
+- **The AI game**: What is it about the AI game that fires you up? Is it the building, the creativity, the autonomy, the subject matter? Understanding the specific ingredients might matter more than the project itself.
+
+- **Immigration and the conveyor belt**: You noted that a startup wasn't really in the cards because of immigration constraints. How much of the conveyor belt was actually constrained choice vs. default path? Does that distinction matter now that immigration is presumably no longer a constraint?
+
 ## From 2026-03-03
 
 - **Is the problem the job or you?**: You wondered whether clear personal boundaries would make firefighting tolerable in any context — even a startup. This is a big fork in the road: if it's the job, you change the job; if it's you, changing jobs won't help. How would you even test this?
@@ -42,12 +52,14 @@ Threads to pick up in future entries.
 
 - **The birthday dinner**: You were blue but showed up and it was okay. "Nice to hear people talk about ordinary things." What is it about ordinariness that's grounding? Is there too little of it in your day-to-day?
 
-## From 2026-03-02
+## From 2026-03-05
 
-- **The meditation experiment**: You landed on 30 mins/day of meditation as the most concrete step toward exploring spirituality as a new dimension. How is that going? What comes up when you sit?
+- **The equities opportunity**: Andrej leaving opens a potential move to equities. You noted it could switch things up and make a sabbatical easier. Is this a genuine pull or a way of reshuffling the conveyor belt? What would you want out of the switch — and is it worth talking to Akshay about even during vacation?
 
-- **Mood as a function of context**: On 3/1 you were anxious about work; by evening, relief. On 3/2 you're on vacation and feeling good, so you projected no desire for change to Clive. How much does your environment determine what you think you want? Can you trust the signal from any single day?
+- **Ikigai and the fear of ruining it**: You enjoy the AI game precisely because it's outside the performance frame. What would it look like to give it more of your life without putting it in the "expected to do well" box? Is that even possible, or does attention inevitably bring expectation?
 
-- **The AI game**: What is it about the AI game that fires you up? Is it the building, the creativity, the autonomy, the subject matter? Understanding the specific ingredients might matter more than the project itself.
+- **"The things that matter are not rival goods"**: Space, community, a few tokens — things nobody can take. This felt like a stable anchor in the morning. How does it hold up when the spiral is active? Is this a belief you can return to, or does it only surface when you're already feeling okay?
 
-- **Immigration and the conveyor belt**: You noted that a startup wasn't really in the cards because of immigration constraints. How much of the conveyor belt was actually constrained choice vs. default path? Does that distinction matter now that immigration is presumably no longer a constraint?
+- **The demand to be happy**: The Japanese contentments book surfaced the idea that modern society expects happiness, and that part of your suffering is feeling like you *shouldn't* be sad. How much of the doom loop's power comes not from the sadness itself but from the resistance to it?
+
+- **Mindful habits in practice** *(update to 3/4 hook)*: On 3/5, the "notice it, don't follow it" approach actually worked in real time — the after-breakfast weight lifted by afternoon without being forced away. What was different this time? Can you trust it to keep working, or does it need to become more deliberate (meditation, routine)?
