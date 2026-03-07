@@ -26,3 +26,10 @@ The paradox: as your actual security increases, the feeling of insecurity can ge
 - This is the first time in the entries where the noticing actually works as an interruption, not just a retrospective insight. The "mindful habits" idea from the 3/4 morning entry is being practiced, not just theorized.
 - By afternoon the weight had lifted — "like the weather, my sadness slowly faded away." Not forced, not solved, just allowed to pass.
 - The morning gratitude list also offered a different kind of safety: "The things that matter are not rival goods. All I ask for is a little space, a community, and a few tokens; I don't think anyone will ever take those away from me." If what you value can't be competed away, the spiral has less fuel.
+
+## 2026-03-06
+
+**Getting used to it.** The anxiety is still there on waking — but the relationship to it keeps shifting. "Still not worry-free, but maybe I am getting used to this being how it is, a little bit." Less fighting, more coexisting.
+
+- A new flavor of the spiral surfaced: worry about acts of terrorism in New York when back from vacation. Not work insecurity this time, but physical safety. The anxiety scanner doesn't distinguish — it just picks up the nearest plausible threat.
+- The wish thought experiment is revealing: "If I could make a wish, what would it be?" → "Make the world calm down and give me a long break." The wish isn't for more money or a better position. It's for stillness. The spiral feeds on turbulence; what he wants is its absence.
