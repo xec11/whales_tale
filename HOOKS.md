@@ -73,3 +73,13 @@ Threads to pick up in future entries.
 - **Seasonal rhythms and local connection**: The sour cherries, Japan by train, the three models of human connection. There's a longing here for a life more rooted in place and season. What would it take to build more of that into your actual life — not as a vacation fantasy but as a real shift? Is Hawaii already a version of this?
 
 - **Journaling asymmetry**: You noticed you write more on bad days than good ones. What would change if you made a point of journaling on the good days too? Would it shift the overall texture of this project, or does the journal serve a specific purpose (processing pain) that doesn't need to be expanded?
+
+## From 2026-03-07
+
+- **The return**: You're flying back tomorrow. How does the first day back actually go? Does the dread match the reality, or is it worse in anticipation? Worth writing about it from the other side. Also, Shirley said she can always fly back if the other side doesn't work out. I can just let her know this week, and be honest.
+
+- **Permission to rest**: The rescue fantasy was about someone saying "it's okay to stop." Seth said something close to that and it mattered enormously. Can you say it to yourself and have it land? What would it take for the internal voice to grant that permission without needing external validation?
+
+- **Aloneness vs. loneliness**: You said no one can really help — not because they don't want to, but because there's nothing others can do. Is that true, or is it the spiral talking? What would "help" even look like if you could design it?
+
+- **"I don't want to rise to the challenge"**: This is unusually direct. You didn't frame it as needing rest or being strategic — you just said you don't want to. What happens if you take that feeling seriously instead of treating it as something to push through?

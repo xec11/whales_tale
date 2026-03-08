@@ -33,3 +33,13 @@ The paradox: as your actual security increases, the feeling of insecurity can ge
 
 - A new flavor of the spiral surfaced: worry about acts of terrorism in New York when back from vacation. Not work insecurity this time, but physical safety. The anxiety scanner doesn't distinguish — it just picks up the nearest plausible threat.
 - The wish thought experiment is revealing: "If I could make a wish, what would it be?" → "Make the world calm down and give me a long break." The wish isn't for more money or a better position. It's for stillness. The spiral feeds on turbulence; what he wants is its absence.
+
+## 2026-03-07
+
+**The spiral at its most raw.** The last evening in Hawaii, flying back tomorrow. The anxiety has detached from any specific work event — it's no longer about the Singapore jet or a particular trade. It's about facing the whole thing again, alone. "I don't think I've ever felt this scared of it before."
+
+- The endpoint this time isn't fight or flight — it's freeze. "What do I want? I just want to hide. I don't want to rise to the challenge right now."
+- Shirley staying in Hawaii while he returns means being alone with it. The aloneness isn't about lacking people who care — "it's not because people don't want to help me, it's just that there's not much that others can do for me right now."
+- The rescue fantasy reveals what the spiral is really eroding: permission to rest. In a dream world, Shirley would say she can take over financially, and teammates would say he's valued even after a vacation week. The fantasy isn't for money or status — it's for someone to say *it's okay to stop*.
+- Seth said something like that last week, and it mattered a lot. The fact that one person's affirmation stood out so sharply suggests how little of that voice exists internally.
+- Landing point: "This too shall pass — the crisis will end, and I can always find people to talk to." Quieter than the 3/4 landing ("I belong in this world"), but still reaching for something beyond the spiral.

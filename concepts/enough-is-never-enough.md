@@ -28,3 +28,11 @@ Named and sharpened during a firefighting week experienced from vacation. Greg o
 - The loop has a paradoxical quality: the situation is objectively better than a year ago (good year, savings, Shirley about to start earning), but the dread is *greater*, because now quitting is just plausible enough to be terrifying.
 - The self-aware version: "My brain likes to scan for worry all the time; right now there's something real; usually it goes after the impending catastrophe of choice." The scanner doesn't distinguish between real threats and ambient ones — it just runs.
 - Landing point: "I made mistakes and I was unlucky. I may as well accept both." Accepting pain without over-learning or spiraling — that's the aspiration, at least.
+
+## 2026-03-07
+
+**The dread of going back.** Last night in Hawaii before flying home. The fear isn't about a specific task or trade — it's about re-entering the whole system. The unspoken assumption underneath: vacation was a deficit to make up for, not a right. He'll be expected to perform immediately, to prove the week away didn't cost anything.
+
+- The rescue fantasy is telling: teammates would say "of course you need rest — it's normal, and we value you even if you were on vacation last week." The fantasy is for someone to say what the internal voice refuses to: *you've done enough, you're allowed to stop.*
+- Seth said something like that, and it mattered enormously — precisely because the default internal script says the opposite.
+- The feeling of aloneness compounds it: Shirley staying in Hawaii, no one who can really help. Not because people don't care, but because the "not enough" voice is internal and others can't turn it off.
